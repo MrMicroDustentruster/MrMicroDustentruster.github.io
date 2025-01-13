@@ -1,1 +1,2 @@
-# MrMicroDustentruster.github.io
+Extractory_Locs:
+https://MrMicroDustentruster.github.io/FactVer.MSinfo
