@@ -6,7 +6,7 @@ Services:
 MSUI:
 UpdateSources:[]
 MSDLC:
-FFCCN:[]
+FFCCN:["9.3.2"]
 TheDoor:[]
 
 ExoSTUDIO:
